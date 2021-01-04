@@ -9,7 +9,7 @@
 |:--------------------------------------------------------------:|:-------------------:|
 |May 2020 - August 2020                                          |Gainesville, Florida |
 
-* Design automated embedded evaluation system
+* Design automated embedded evaluation system which utilized embedded elements wired together with and FPGA and stimulated with an ARM SoC
 * Run weekly lab session to evaluate students’ understanding of embedded systems software development
 
 |Software Engineering Intern|Open Source Robotics Foundation|
@@ -25,7 +25,8 @@
 |:----------------------------------:|:---------------------------:|
 |May 2018 - July 2018                |Eglin Air Force Base, Florida|
 
-* Developed micro-controller software for a multi-stage parachute system MAV-Link / 2.4 GHz UAVs
+* Developed micro-controller software for a multi-stage parachute system
+* Populating an un-used MAV-Link command sent over 2.4 GHz to the UAV's for the deployment signal
 * Validated UART protocol data stream through software/hardware in-the-loop simulation
 * Utilized MBed Real-Time Operating System on an ARM Cortex M4
 * Simulated operational environment with JSB Sim physics simulator and MAV-Proxy API (Python)
@@ -51,6 +52,7 @@
 |:-----------------------------------------:|:------------------:|
 
 * Made the framework so uninformed developers could start solving controls problems.
+* Built a first-order vehicle and environment approximation based on real world data
 * Sufficiently [documented](https://mil.readthedocs.io/en/latest/docs/indyav/software/simulation/gazebo/gazebo.html).
 
 |Re-Wrote Passive Sonar Processing Pipeline to Locate a Beacon|February 2020 - March 2020|
