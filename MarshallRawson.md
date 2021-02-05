@@ -9,7 +9,7 @@
 
 |Linux Systems Engineer |Ledios            |
 |:---------------------:|:----------------:|
-|January 2010 - Present |Bethesda, Maryland|
+|January 2021 - Present |Bethesda, Maryland|
 
 * Design, Triage, and Maintian Linux Systems Infrastructure.
 * Work closely with Physics, Signal Processing, and Information Security experts to deliver modeling, simulation, and training services.
