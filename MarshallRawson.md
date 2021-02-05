@@ -5,12 +5,22 @@
 |(850)-490-5024|marshallrawson@ufl.edu|[Marshall Rawson](https://github.com/MarshallRawson)|Greenbelt, Maryland  |
 
 ## Work Experience
+
+
+|Linux Systems Engineer |Ledios            |
+|:---------------------:|:----------------:|
+|January 2010 - Present |Bethesda, Maryland|
+
+* Design, Triage, and Maintian Linux Systems Infrastructure.
+* Work closely with Physics, Signal Processing, and Information Security experts to deliver modeling, simulation, and training services.
+
 |Microprocessor Applications Undergraduate Lab Teaching Assistant|University of Florida|
 |:--------------------------------------------------------------:|:-------------------:|
 |May 2020 - August 2020                                          |Gainesville, Florida |
 
 * Design automated embedded evaluation system which utilized embedded elements wired together with and FPGA and stimulated with an ARM SoC
 * Run weekly lab session to evaluate students’ understanding of embedded systems software development
+
 
 |Software Engineering Intern|Open Source Robotics Foundation|
 |:-------------------------:|:-----------------------------:|
