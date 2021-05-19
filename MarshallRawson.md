@@ -100,7 +100,9 @@
 |:------------------------------:|:-------------------------------:|
 |August 2018 - May 2021          |Gainesville, Florida             |
 |**GPA**                         |**Relevant Coursework**          |
-|3.63 / 4.0                      |Design 2 (Laboratory Research)   |
+|3.60 / 4.0                      |Advanced Systems Programming     |
+|                                |GPU Accelerated Programming      |
+|                                |Design 2 (Laboratory Research)   |
 |                                |Design 1 (Build Embedded System) |
 |                                |Microprocessor Applications 1 & 2|
 |                                |Fundamentals of Machine Learning |
@@ -114,4 +116,4 @@
 Python, C/C++, Git, ROS, numpy, Linux, Scikit-learn, Jupyter, Tensorflow, Bash/Shell, VHDL, TCP/IP, UDP/IP, Concurrent Programming, Scrum/Agile, Test Driven Development, Continuous Integration, Markdown, Restructured Text, ReadTheDocs
 
 ### Used Some:
-Rust, Go, Java, Matlab/Octave, SQL (Data Engineering), Pandas, Verilog, Scala, Spark, Hadoop, Postgres, Hive
+Rust, Go, Cuda, Java, Matlab/Octave, SQL (Data Engineering), Pandas, Verilog, Scala, Spark, Hadoop, Postgres, Hive
