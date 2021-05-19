@@ -6,12 +6,18 @@
 
 ## Work Experience
 
+|Software Engineer   |Sylphase LLC  |
+|:------------------:|:------------:|
+|April 2021 - Present|Houston, Texas|
 
-|Linux Systems Engineer |Ledios            |
-|:---------------------:|:----------------:|
-|January 2021 - Present |Bethesda, Maryland|
+* Design and maintain software that interfaces closley with hardware devices.
+* Work closly with Electrical, Mechanical, and other Software Engineers to deliver GPS solutions.
 
-* Design, Triage, and Maintian Linux Systems Infrastructure.
+|Linux Systems Engineer Coop|Ledios            |
+|:-------------------------:|:----------------:|
+|January 2021 - April 2021  |Bethesda, Maryland|
+
+* Design, triage, and maintian linux systems infrastructure.
 * Work closely with Physics, Signal Processing, and Information Security experts to deliver modeling, simulation, and training services.
 
 |Microprocessor Applications Undergraduate Lab Teaching Assistant|University of Florida|
@@ -44,22 +50,22 @@
 ## Leadership
 |Lead Robotics Software Developer|University of Florida Machine Intelligence Laboratory|
 |:------------------------------:|:---------------------------------------------------:|
-|August 2018 - Present           |Gainesville, Florida                                 |
+|August 2018 - May 2021          |Gainesville, Florida                                 |
 
-|Designed and Constructed [Unified Perception Interface](https://youtu.be/7jTNgrSyskQ)|August 2020 - Present|
+|Designed and Constructed [Unified Perception Interface](https://youtu.be/7jTNgrSyskQ)|August 2020 -  May 2021|
 |:----:|:----:|
 
 * Abstracts higher level perceptions and decision making away from lower level perceptions
 * Uses Gaussian Distributions indicated from lower level perceptions to generically fuse and filter sensor data
 
-|Built a [Petri Net Based Concurrent Programming Framework](https://github.com/MarshallRawson/petri_net_interpreter)|April 2020 - Present|
-|:-------------------:|:------------------:|
+|Built a [Petri Net Based Concurrent Programming Framework](https://github.com/MarshallRawson/petri_net_interpreter)|April 2020 - May 2021|
+|:-------------------:|:-------------------:|
 
 * Makes all possible states of the concurrent program knowable via state graph exploration.
 * Facilitates concurrent programs to easily exhibit deterministic behavior
 
-|Laid Foundation for [Autonomous Racecar Simulation in Gazebo](https://github.com/uf-mil/mil/tree/master/IndyAV/simulation/indyav_gazebo)|April 2020 - Present|
-|:-----------------------------------------:|:------------------:|
+|Laid Foundation for [Autonomous Racecar Simulation in Gazebo](https://github.com/uf-mil/mil/tree/master/IndyAV/simulation/indyav_gazebo)|April 2020 - May 2021|
+|:-----------------------------------------:|:--------------:|
 
 * Made the framework so uninformed developers could start solving controls problems.
 * Built a first-order vehicle and environment approximation based on real world data
