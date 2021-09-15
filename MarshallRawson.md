@@ -1,8 +1,8 @@
 # Marshall Rawson
 ## Contact Information
-|Phone Number  |Email Address         |Github                                              |Address              |
-|--------------|----------------------|----------------------------------------------------|---------------------|
-|(850)-490-5024|marshallrawson@ufl.edu|[Marshall Rawson](https://github.com/MarshallRawson)|Greenbelt, Maryland  |
+|Phone Number  |Email Address         |Github                                              |Address       |
+|--------------|----------------------|----------------------------------------------------|--------------|
+|(850)-490-5024|marshallrawson@ufl.edu|[Marshall Rawson](https://github.com/MarshallRawson)|Houston, Texas|
 
 ## Work Experience
 
