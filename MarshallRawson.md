@@ -10,14 +10,14 @@
 |:------------------:|:------------:|
 |April 2021 - Present|Houston, Texas|
 
-* Design and maintain software that interfaces closley with hardware devices.
-* Work closly with Electrical, Mechanical, and other Software Engineers to deliver GPS solutions.
+* Design and maintain software that interfaces closely with hardware devices.
+* Work closely with Electrical, Mechanical, and other Software Engineers to deliver GPS solutions.
 
-|Linux Systems Engineer Coop|Ledios            |
+|Linux Systems Engineer Coop|Leidos            |
 |:-------------------------:|:----------------:|
 |January 2021 - April 2021  |Bethesda, Maryland|
 
-* Design, triage, and maintian linux systems infrastructure.
+* Design, triage, and maintain Linux systems infrastructure.
 * Work closely with Physics, Signal Processing, and Information Security experts to deliver modeling, simulation, and training services.
 
 |Microprocessor Applications Undergraduate Lab Teaching Assistant|University of Florida|
