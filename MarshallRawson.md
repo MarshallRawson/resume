@@ -1,5 +1,5 @@
 # Marshall Rawson
-Contact Information: (850)-490-5024 | marshallrawson@ufl.edu | [Github](https://github.com/MarshallRawson) | Houston, Texas
+Contact Information: (850)-490-5024 | marshallrawson0@gmail.com | [Github](https://github.com/MarshallRawson) | Houston, Texas
 
 ## Skills
 
