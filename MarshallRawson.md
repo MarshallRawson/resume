@@ -3,20 +3,26 @@ Contact Information: (850)-490-5024 | marshallrawson@ufl.edu | [Github](https://
 
 ## Skills
 
-* C++ (for Linux): Sylphase, OSRF, MIL, AFRL
-* Python: Sylphase, OSRF, MIL, Leidos
+* C++ (for Linux): Nauticus Robotics, Sylphase, OSRF, MIL, AFRL
+* Python: Nauticus Robotics, Sylphase, OSRF, MIL, Leidos
 * Bash: MIL, Sylphase
 * GPU via CUDA: [hash-shader](https://github.com/RustyBamboo/hash-shader)
 * Micro Controller System Design (embedded C): AFRL, UF
-* Kan Ban / Scrum / Agile: Sylphase, MIL, OSRF
+* Kan Ban / Scrum / Agile: Nauticus Robotics, Sylphase, MIL, OSRF
 
 ## Work Experience
 
+### ***Nauticus Robotics***
+Robotics Software Engineer | January 2022 - Present | Houston, Texas
+
+* Re-purpose ROS2 control, autonomy, perception, and simulation for prototyping of an autonomous underwater vehicle for explosive ordinance disposal.
+* Work closely with mechanical, electrical, and other software engineers to accurately simulate and deploy an autonomous underwater vehicle.
+
 ### ***Sylphase***
-Software Engineer | April 2021 - Present | Houston, Texas
+Software Engineer | April 2021 - January 2022 | Houston, Texas
 
 * Design and maintain software that interfaces closely with hardware devices.
-* Work closely with Electrical, Mechanical, and other Software Engineers to deliver GNSS solutions.
+* Work closely with electrical, mechanical, and other software engineers to deliver GNSS solutions.
 
 ### ***Leidos***
 Linux Systems Engineer Co-op/Intern | January 2021 - April 2021  | Bethesda, Maryland
