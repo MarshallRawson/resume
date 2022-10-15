@@ -13,16 +13,17 @@ Contact Information: (850)-490-5024 | marshallrawson0@gmail.com | [Github](https
 ## Work Experience
 
 ### ***Nauticus Robotics***
-Robotics Software Engineer | January 2022 - Present | Houston, Texas
+Robotics Software Engineer | January 2022 - October 2022 | Houston, Texas
 
 * Re-purpose ROS2 control, autonomy, perception, and simulation for prototyping of an autonomous underwater vehicle for explosive ordinance disposal.
 * Work closely with mechanical, electrical, and other software engineers to accurately simulate and deploy an autonomous underwater vehicle.
+* Completed major phase of vehicle development and integration demonstration to customer in the field.
 
 ### ***Sylphase***
 Software Engineer | April 2021 - January 2022 | Houston, Texas
 
 * Design and maintain software that interfaces closely with hardware devices.
-* Work closely with electrical, mechanical, and other software engineers to deliver GNSS solutions.
+* Work closely with electrical, mechanical, and other software engineers to deliver GNSS solutions and internal tools.
 
 ### ***Leidos***
 Linux Systems Engineer Co-op/Intern | January 2021 - April 2021  | Bethesda, Maryland
@@ -71,6 +72,9 @@ Bachelor of Computer Engineering | August 2018 - May 2021 | Gainesville, Florida
 
 * *GPA:* 3.60 / 4.0
 * *Relevant Coursework:* Advanced Systems Programming, GPU Accelerated Programming, Design 2 (Laboratory Research), Design 1 (Build embedded System), Microprocessor Applications 1 & 2, Fundamentals of Machine Learning, Data Structures, Linear Algebra, Combinatorics, Regression Analysis
+
+## Publications
+Marshall Rawson, Michael G. Rawson. Petri Nets for Concurrent Programming. _Proceedings of International Conference for High Performance Computing, Networking, Storage and Analysis_ (SC22). Nov 2022. [https://arxiv.org/abs/2208.02900](https://arxiv.org/abs/2208.02900) [Accepted]
 
 ## Technologies:
 Python, C/C++, Git, ROS, numpy, Linux, Rust, Go, Cuda, SQL, Scikit-learn, Jupyter, Tensorflow, Bash/Shell, VHDL, TCP/IP, UDP/IP, Concurrent Programming, Scrum/Agile, Test Driven Development, Continuous Integration, Markdown, Restructured Text, ReadTheDocs
