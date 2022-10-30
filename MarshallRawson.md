@@ -12,11 +12,6 @@ Contact Information: (850)-490-5024 | marshallrawson0@gmail.com | [Github](https
 
 ## Work Experience
 
-### ***Velentium***
-Test System Design and Development Engineer | October 2022 - Present | Houston, Texas
-
-* Work with mechanical and electrical engineers to design and build medical device validation machines. (Python)
-
 ### ***Nauticus Robotics***
 Robotics Software Engineer | January 2022 - October 2022 | Houston, Texas
 
