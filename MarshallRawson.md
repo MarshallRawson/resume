@@ -1,5 +1,5 @@
 # Marshall Rawson
-Contact Information: (850)-490-5024 | marshallrawson0@gmail.com | [Github](https://github.com/MarshallRawson) | Houston, Texas
+Contact Information: (850)-490-5024 | marshallrawson0@gmail.com | [Github](https://github.com/MarshallRawson) | Mountain View, California
 
 ## Skills
 
@@ -11,6 +11,11 @@ Contact Information: (850)-490-5024 | marshallrawson0@gmail.com | [Github](https
 * Kan Ban / Scrum / Agile: Nauticus Robotics, Sylphase, MIL, OSRF
 
 ## Work Experience
+
+### ***Google***
+Software Engineer | January 2023 - Present | Sunnyvale, California
+
+* Work closely with vendors and hardware engineers to manage custom linux kernel for novel CPU and server platform.
 
 ### ***Nauticus Robotics***
 Robotics Software Engineer | January 2022 - October 2022 | Houston, Texas
