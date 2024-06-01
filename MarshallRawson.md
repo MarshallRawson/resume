@@ -1,21 +1,28 @@
 # Marshall Rawson
-Contact Information: (850)-490-5024 | marshallrawson0@gmail.com | [Github](https://github.com/MarshallRawson) | Mountain View, California
+
+(850)-490-5024 \hfill marshallrawson0@gmail.com \hfill Mountain View, California
+
+[Github](https://github.com/MarshallRawson) (https://github.com/MarshallRawson) \hfill [LinkedIn](https://www.linkedin.com/in/marshall-rawson/) (https://www.linkedin.com/in/marshall-rawson)
 
 ## Skills
 
-* C++ (for Linux): Nauticus Robotics, Sylphase, OSRF, MIL, AFRL
+* C (Linux Kernel): Google
+* C++ (Linux Userpsace): Nauticus Robotics, Sylphase, OSRF, MIL, AFRL
 * Python: Nauticus Robotics, Sylphase, OSRF, MIL, Leidos
 * Bash: MIL, Sylphase
-* GPU via CUDA: [hash-shader](https://github.com/RustyBamboo/hash-shader)
+* GPU via CUDA: [hash-shader](https://github.com/RustyBamboo/hash-shader) (https://github.com/RustyBamboo/hash-shader)
 * Micro Controller System Design (embedded C): AFRL, UF
 * Kan Ban / Scrum / Agile: Nauticus Robotics, Sylphase, MIL, OSRF
 
 ## Work Experience
 
 ### ***Google***
-Software Engineer | January 2023 - Present | Sunnyvale, California
+Embedded Software Engineer | January 2023 - Present | Sunnyvale, California
 
-* Work closely with vendors and hardware engineers to manage custom linux kernel for novel CPU and server platform.
+* Manage kernel source code and releases for gen 1 Axion server NPI program.
+* Host summer intern to build utility for tracking source code patches accross releases as a horizontal benefit to all NPI programs.
+* Work closely with vendors, software engineers, and hardware engineers to deliver custom linux kernels for program development.
+* Write custom drivers for novel CPU to enable performance improvments and hardware specific error decoding.
 
 ### ***Nauticus Robotics***
 Robotics Software Engineer | January 2022 - October 2022 | Houston, Texas
@@ -53,9 +60,8 @@ Software Engineering Intern | June 2019 - August 2019 | Mountain View, Californi
 ### ***University of Florida Machine Intelligence Laboratory (MIL)***
 Lead Robotics Software Developer | August 2018 - May 2021 | Gainesville, Florida
 
-* [Unified Perception Interface](https://youtu.be/7jTNgrSyskQ)
-* [Petri Net Based Concurrent Programming Framework](https://github.com/MarshallRawson/petri_net_interpreter)
-* Laid Foundation for [Autonomous Racecar Simulation in Gazebo](https://github.com/uf-mil/mil/tree/master/IndyAV/simulation/indyav_gazebo)
+* [Unified Perception Interface](https://youtu.be/7jTNgrSyskQ) (https://youtu.be/7jTNgrSyskQ)
+* Laid Foundation for [Autonomous Racecar Simulation in Gazebo](https://github.com/uf-mil/mil/tree/master/IndyAV/simulation/indyav_gazebo) (https://github.com/uf-mil/mil/tree/master/IndyAV/simulation/indyav_gazebo)
 * Re-Worked Passive Sonar Processing Pipeline to Locate a Beacon
 * 2019 Virtual Robot X Competition (5th place)
 * 2019 RoboSub Competition
@@ -78,8 +84,14 @@ Bachelor of Computer Engineering | August 2018 - May 2021 | Gainesville, Florida
 * *GPA:* 3.60 / 4.0
 * *Relevant Coursework:* Advanced Systems Programming, GPU Accelerated Programming, Design 2 (Laboratory Research), Design 1 (Build embedded System), Microprocessor Applications 1 & 2, Fundamentals of Machine Learning, Data Structures, Linear Algebra, Combinatorics, Regression Analysis
 
+## Conferences
+* Marshall Rawson, Michael G. Rawson. Petri Net Parallel Computing Theory and Applications. Sai Computing Conference. July 2023.
+* Marshall Rawson, Michael G. Rawson. Petri Nets for Concurrent Programming. International Conference for High Performance Computing, Networking, Storage and Analysis (SC22). Nov 2022.
+
 ## Publications
-Marshall Rawson, Michael G. Rawson. Petri Nets for Concurrent Programming. _Proceedings of International Conference for High Performance Computing, Networking, Storage and Analysis_ (SC22). Nov 2022. [https://arxiv.org/abs/2208.02900](https://arxiv.org/abs/2208.02900) [Accepted]
+* Marshall Rawson, Michael G. Rawson. Petri Net Parallel Computing Theory and Applications. _Intelligent Computing_ (SAI 2023). Sept 2023. [https://link.springer.com/chapter/10.1007/978-3-031-37717-4_9](https://link.springer.com/chapter/10.1007/978-3-031-37717-4_9)
+* Marshall Rawson, Michael G. Rawson. Petri Nets for Concurrent Programming. _Proceedings of International Conference for High Performance Computing, Networking, Storage and Analysis_ (SC22). Nov 2022. [https://ieeexplore.ieee.org/abstract/document/10025476](https://ieeexplore.ieee.org/abstract/document/10025476)
+* Brian Bingham, Carlos Aguero, Michael McCarrin, Joseph Klamo, Joshua Malia, Kevin Allen, Tyler Lum, Marshall Rawson, Rumman Waqar. Toward Maritime Robotic Simulation in Gazebo. _OCEANS 2019 MTS/IEEE SEATTLE_ Jan. 2022. [https://ieeexplore.ieee.org/abstract/document/8962724](https://ieeexplore.ieee.org/abstract/document/8962724)
 
 ## Technologies:
-Python, C/C++, Git, ROS, numpy, Linux, Rust, Go, Cuda, SQL, Scikit-learn, Jupyter, Tensorflow, Bash/Shell, VHDL, TCP/IP, UDP/IP, Concurrent Programming, Scrum/Agile, Test Driven Development, Continuous Integration, Markdown, Restructured Text, ReadTheDocs
+Python, C/C++, Git, ROS, numpy, Linux, Rust, Go, Cuda, SQL, Scikit-learn, Jupyter, Tensorflow, Bash/Shell, VHDL, TCP/IP, UDP/IP, I2C, SPI, Concurrent Programming, Scrum/Agile, Test Driven Development, Continuous Integration, Markdown, Restructured Text, ReadTheDocs
