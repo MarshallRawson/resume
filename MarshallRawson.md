@@ -20,9 +20,9 @@
 Embedded Software Engineer \hfill Sunnyvale, California \hfill January 2023 - Present
 
 * Manage kernel source code and releases for gen 1 Axion server NPI program.
-* Host summer intern to build utility for tracking source code patches accross releases as a horizontal benefit to all NPI programs.
+* Host summer intern to build utility for tracking source code patches across releases as a horizontal benefit to all NPI programs.
 * Work closely with vendors, software engineers, and hardware engineers to deliver custom linux kernels for program development.
-* Write custom drivers for novel CPU to enable performance improvments and hardware specific error decoding.
+* Write custom drivers for novel CPU to enable performance improvements and hardware specific error decoding.
 
 ### ***Nauticus Robotics***
 Robotics Software Engineer \hfill Houston, Texas \hfill January 2022 - October 2022
