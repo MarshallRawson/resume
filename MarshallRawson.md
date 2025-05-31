@@ -1,11 +1,12 @@
 # Marshall Rawson
 
-(850)-490-5024 \hfill marshallrawson0@gmail.com \hfill Mountain View, California
+(850)-490-5024 \hfill marshallrawson0@gmail.com \hfill Austin, Texas
 
 [Github](https://github.com/MarshallRawson) (https://github.com/MarshallRawson) \hfill [LinkedIn](https://www.linkedin.com/in/marshall-rawson/) (https://www.linkedin.com/in/marshall-rawson)
 
 ## Skills
 
+* Agentic AI: Amazon
 * C (Linux Kernel): Google
 * C++ (Linux Userpsace): Nauticus Robotics, Sylphase, OSRF, MIL, AFRL
 * Python: Nauticus Robotics, Sylphase, OSRF, MIL, Leidos
@@ -16,8 +17,15 @@
 
 ## Work Experience
 
+### ***Amazon***
+AI Software Engineer \hfill Austin, Texas \hfill August 2024 - Present
+
+* Build AI agents to deliver meaningful benefit to supply chain customers.
+* Contribute and maintain RAG-ish architecture for AWS Supply Chain (ASC) Q.
+* Work closely with subject matter experts and product team to make AI work for all customers.
+
 ### ***Google***
-Embedded Software Engineer \hfill Sunnyvale, California \hfill January 2023 - Present
+Embedded Software Engineer \hfill Sunnyvale, California \hfill January 2023 - August 2024
 
 * Manage kernel source code and releases for gen 1 Axion server NPI program.
 * Host summer intern to build utility for tracking source code patches across releases as a horizontal benefit to all NPI programs.
