@@ -1,0 +1,4 @@
+#!/bin/bash
+set -euo pipefail
+
+pandoc -V geometry:margin=0.75in -V fontsize=11pt -V colorlinks=true -V linkcolor=blue --pdf-engine=xelatex $1 -o $2
